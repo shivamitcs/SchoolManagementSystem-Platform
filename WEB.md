@@ -151,7 +151,7 @@ Modern enterprise dashboards and operational workflows designed for scalable aca
 ### Admin Dashboard
 
 <p align="center">
-  <img src="./assets/screenshots/web/admin/dashboard.png" width="100%" alt="Admin Dashboard"/>
+  <img src="./assets/screenshots/web/admin/dashboard1-dark.png" width="100%" alt="Admin Dashboard"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ Modern enterprise dashboards and operational workflows designed for scalable aca
 ### Attendance Management
 
 <p align="center">
-  <img src="./assets/screenshots/web/admin/student_attendance.png" width="100%" alt="Attendance Management"/>
+  <img src="./assets/screenshots/web/admin/student-attendance-autumn.png" width="100%" alt="Attendance Management"/>
 </p>
 
 ---
@@ -183,7 +183,7 @@ Modern enterprise dashboards and operational workflows designed for scalable aca
 ### Fees & Billing Management
 
 <p align="center">
-  <img src="./assets/screenshots/web/admin/Student-fess.png" width="100%" alt="Fees Management"/>
+  <img src="./assets/screenshots/web/admin/student-fees.png" width="100%" alt="Fees Management"/>
 </p>
 
 ---
@@ -207,7 +207,7 @@ Modern enterprise dashboards and operational workflows designed for scalable aca
 ### Role & User Management
 
 <p align="center">
-  <img src="./assets/screenshots/web/admin/User-roles.png" width="100%" alt="Role Management"/>
+  <img src="./assets/screenshots/web/admin/user-role-ocen-ocen.png" width="100%" alt="Role Management"/>
 </p>
 
 ## Business Case Study
