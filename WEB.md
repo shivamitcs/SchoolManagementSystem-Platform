@@ -96,11 +96,7 @@ The system enables educational institutions to manage students, staff, attendanc
 The platform follows a scalable enterprise-grade architecture designed for academic operations, real-time communication, analytics, and secure workflow management.
 
 <p align="center">
-  <img 
-    src="./assets/architecture/enterprise-school-architecture.png" 
-    alt="Enterprise School Management Architecture"
-    width="100%"
-  />
+  <img src="./assets/architecture/enterprise-school-architecture.png" alt="Enterprise School Management Architecture" width="100%" />
 </p>
 
 ---
