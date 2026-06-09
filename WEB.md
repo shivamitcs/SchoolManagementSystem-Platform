@@ -206,6 +206,20 @@ Modern enterprise dashboards and operational workflows designed for scalable aca
   <img src="./assets/screenshots/web/admin/user-role-ocen-ocen.png" width="100%" alt="Role Management"/>
 </p>
 
+---
+
+## Key Use Cases
+
+- School administration systems
+- Student information management
+- Attendance tracking platforms
+- Academic operations management
+- Examination management systems
+- Educational reporting solutions
+- Multi-campus school operations
+
+---
+
 ## Business Case Study
 
 ### Problem Statement
@@ -236,6 +250,18 @@ The platform enables:
 
 ---
 
+## Business Outcomes
+
+- Improved academic administration
+- Faster communication workflows
+- Reduced operational overhead
+- Better attendance visibility
+- Enhanced reporting efficiency
+- Improved student and staff management
+- Scalable school operations
+
+---
+
 ### Technical Approach
 
 Frontend:
@@ -261,6 +287,19 @@ Backend:
 - Real-time notification delivery
 - Scalable modular architecture
 - Enhanced reporting visibility
+
+---
+
+## Security Architecture
+
+- JWT authentication workflows
+- Role-based access control (RBAC)
+- Protected API endpoints
+- Secure middleware pipeline
+- Permission-based operations
+- Environment-based configuration
+
+---
 
 ## Platform Capabilities
 
@@ -303,6 +342,19 @@ Backend:
 - JWT authentication
 - SignalR realtime workflows
 - Responsive enterprise UI
+
+---
+
+## Scalability Engineering
+
+- Modular enterprise architecture
+- SignalR real-time infrastructure
+- Scalable API ecosystem
+- Optimized database workflows
+- Enterprise deployment readiness
+- Multi-school expansion support
+
+---
 
 ## Product Roadmap
 
@@ -359,8 +411,9 @@ The platform represents a modular enterprise ecosystem built to support evolving
 
 ---
 
-🌐 Live Platform:  
-https://pushtiapp.shivamitconsultancy.com/
+## Live Platform
+
+🌐 https://pushtiapp.shivamitconsultancy.com/
 
 ---
 
@@ -372,6 +425,34 @@ https://pushtiapp.shivamitconsultancy.com/
    /branding
    /architecture
 ```
+---
+
+## Repository Topics
+
+```txt
+school-management-system
+education-platform
+student-management
+attendance-management
+academic-management
+angular
+aspnet-core
+dotnet
+signalr
+sql-server
+jwt-authentication
+firebase
+school-administration
+education-technology
+reporting-dashboard
+enterprise-platform
+role-based-access-control
+real-time-notifications
+academic-analytics
+edtech
+```
+
+---
 
 ## License
 
