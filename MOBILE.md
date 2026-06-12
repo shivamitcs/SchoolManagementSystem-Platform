@@ -10,11 +10,7 @@
 Enterprise-grade mobile platform designed to streamline academic operations, student engagement, administrative workflows, attendance management, communication, and school services through a unified mobile experience.
 
 <p align="center">
-  <img
-    src="./assets/branding/school-mobile-banner.png"
-    width="100%"
-    alt="School Information Mobile Platform Banner"
-  />
+  <img src="./assets/branding/school-mobile-banner.png" width="100%" alt="School Information Mobile Platform Banner"/>
 </p>
 
 ---
@@ -22,8 +18,6 @@ Enterprise-grade mobile platform designed to streamline academic operations, stu
 ## Live Platform
 
 📱 Mobile Application Available on Request
-
----
 
 ## Platform Preview
 
@@ -231,11 +225,7 @@ Features include:
 The platform follows a scalable mobile-first architecture engineered for educational institutions, academic workflows, administrative operations, and secure role-based access management.
 
 <p align="center">
-  <img
-    src="./assets/architecture/school-mobile-system-architecture.png"
-    width="100%"
-    alt="School Information Mobile Platform Architecture"
-  />
+  <img src="./assets/architecture/school-mobile-system-architecture.png" width="100%" alt="School Information Mobile Platform Architecture" />
 </p>
 
 ---
