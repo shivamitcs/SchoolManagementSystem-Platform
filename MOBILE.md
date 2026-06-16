@@ -40,7 +40,7 @@ Built with a product-engineering mindset, the platform focuses on accessibility,
 # Platform Highlights
 
 - Multi-role mobile platform
-- Student mobile portal
+- Student mobile portal 
 - Teacher productivity tools
 - Administrative dashboards
 - Attendance management
@@ -267,9 +267,9 @@ The platform follows a scalable mobile-first architecture engineered for educati
 <br/>
 
 <p align="center">
-  <img src="./assets/screenshots/mobile/student/calendar-dark.png" width="32%" />
-  <img src="./assets/screenshots/mobile/student/attendance-overview-dark.png" width="32%" />
-  <img src="./assets/screenshots/mobile/student/apply-certificate-dark.png" width="32%" />
+  <img src="./assets/screenshots/mobile/student/calendar-dark.png" width="32%"/>
+  <img src="./assets/screenshots/mobile/student/attendance-overview-dark.png" width="32%"/>
+  <img src="./assets/screenshots/mobile/student/apply-certificate-dark.png" width="32%"/>
 </p>
 
 <br/>
