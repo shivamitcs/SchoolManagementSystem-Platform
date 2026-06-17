@@ -18,7 +18,7 @@ Enterprise-grade school management system built with Angular 19 and ASP.NET Core
 
 Mobile-first educational platform built with React Native and Expo.
 
-**Documentation:** [MOBILE.md](./MOBILE.md)
+**Documentation:** [MOBILE.md](./MOBILE.md) 
 
 ---
 
