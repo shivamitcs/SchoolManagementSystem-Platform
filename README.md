@@ -6,7 +6,7 @@ Modern educational ecosystem consisting of a web-based administration platform a
 
 ## Platform Components
 
-### 📘 Web Administration Platform
+### 📘 Web Administration Platform 
 
 Enterprise-grade school management system built with Angular 19 and ASP.NET Core 8.
 
