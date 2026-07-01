@@ -10,7 +10,7 @@
 Enterprise-grade mobile platform designed to streamline academic operations, student engagement, administrative workflows, attendance management, communication, and school services through a unified mobile experience.
 
 <p align="center">
-  <img src="./assets/branding/school-mobile-banner.png" width="100%" alt="School Information Mobile Platform Banner"/>
+  <img src="./assets/branding/school-mobile-banner.png" width="100%" alt="School Information Mobile Platform Banner" />
 </p>
 
 ---
