@@ -13,7 +13,7 @@ Modern enterprise-grade school management system built with Angular 19 and ASP.N
 ---
 
 <p align="center">
-  <img src="./assets/branding/school-management-system-banner.png" alt="School Management System" width="100%"/>
+  <img src="./assets/branding/school-management-system-banner.png" alt="School Management System" width="100%" />
 </p>
 
 ---
